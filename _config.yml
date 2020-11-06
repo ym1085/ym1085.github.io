@@ -98,11 +98,11 @@ author:
   avatar           : "/assets/images/ymkim.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "펭귄을 좋아하는 주니어 웹 개발자"
   location         : "South Korea"
-  email            : youngmin1085@gmail.com
+  # email            : youngmin1085@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:youngmin1085@gmail.com"
+      # url: "mailto:youngmin1085@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ym1085.github.io"
+      url: "https://github.com/ym1085"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/youngminkim93/" 
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ym1085.github.io"
+      url: "https://github.com/ym1085"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
