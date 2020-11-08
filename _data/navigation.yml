@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Java"
-    url: /_posts/Java/
-  - title: "Spring boot"
-    # url:
   - title: "Dev"
     # url:
   - title: "Notion"
